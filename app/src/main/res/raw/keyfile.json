@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "graphite-dynamo-300002",
+  "private_key_id": "415bfb4623500a89a47c8a30fd30b0b91eb94f75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCO9+vr2Calv0VP\nmK87PdUlQyFGPH7SzsAsLl1cyY21HPtg1C1ebPbLELIb9L9MWu6ZIvZKTWVG1ams\n1pUdcusyF6FyBcHiYZGX+mdZdJGonFghSyvig9qoPU2gjOZiOLoFsqkxptND6aSQ\nhAfkfPrHkEQbULPEzUqQXgTWGcJrHpZSWs8ldQUE8xAY/7Y6WeOH3Zi5xgs1SnMB\nBcPfV9a71h2tdaPAxWFlyQGJzCVf0NVsdC7AMAnMMnO3wyktAuz4qirHBtxFpOLD\n4T8If04FcOLlOHzaDnPzmU4O4LcMgLFrOr3urgs1cKKy5/c3K/b4T/0o+nTECMqx\nSaDZPtU9AgMBAAECggEANg0DE6onilhS0vHtpd8Nm0XS6aPrarWhr9Jjl7XXrlZj\nr0roUB+v+ju4qpsQS8TBGgI+zP6PwIT83gxOWdDdnJWUgvAsSfMLQUL5GbfZbb6W\nDxhFYiDpZNuwYneCjjXWFltiXhQtISrO/Zf9B+Q8R4CCTzVmkYvvmb8B4xPgDfD0\nyEAEiSYNmYJwr8BXgv3c8uRWslgiuxW8edumzqhrabgOiPx/SHa8TL4tijQ170Vk\nyKiMxtYUwYDNcqUWx9aa1eEhajYCC24PBACcOBYv1261kw1/VKbY0AI1AJ31S/Tx\n18Q//eBjFJJ/yMSSwq8ZWLnizIkHBiCJinyIiTJv3QKBgQDBE2kCBXokzPBkASdO\n7paUklOU5zIKXtp+niQLhE7yMNwk8yWpBJvfqxKFiNeJQylTu7YE2GZt0Y5/YVJW\n7pb2S+/oi9PyzNzSOo9wRAVC54PUHE7xkf/WPxzF+LXkkXWXkyWySxRbd0Ba/vz+\nzRLUXmuMDfjWuJLssLDwLAGm3wKBgQC9j/tUaZx5Ni5lW3AjkK9WRDnUzd5PuK+q\n01CjrYDzpaY0xH1Aj2cr6nFG0fUC5tIDNr9eOTd+/caRVItcNb/CwswkAZJwxvwN\nKuCLUn+aVb63yluoqiNzgo0ILR2L1yw6Wh8xs5HoJYkE9Es6y8JdhvtqRYZj5M1P\nzO9TOZ9TYwKBgAqnJ4QVCUg+hoT+C00vnN9Vs4bjur8XvLZ/wz1fb3utdngTcmCB\nAJi2t67mff301rLoCIL77arhhRtCI2jogSvVxMbv8CHVa9mtoXxwRFoMrBln9nMd\nux/3G39Q2bhizjouxEWyHs1tJv/eUdc9OWy+SPDRVImEZZbpqNmXk//BAoGAETo4\nmR9P/SQTa1q4AkNv6+MfbluXTJ94N4ok1fs6sOnpBPqmd2uQ8MjJqqoCHlVj2K7t\nDV8d0Ai4NxT75VFtMAIME2mhKWasGXZAGelRd3E7d/CIC/gKaMEAmDGhccgIWPU/\nyICNTg+7OBwLijhiXaWay7mt0P5GOm5hgarG9AkCgYBgdphhrS+l4+2rsmWC0JdU\nGHL573xIMVsyEnXCB2pdmLG99znD4JJhn4Li0sCcghnZwEfkMO1GUbfo5fye9NDI\nXaNWJDSjW3cbHc0jbRy7Rs/1Mqz3iSjUMyk3eS4dwO7XDxFD61piz4Oek8mcWU35\nKb//OP566Xvic4LvGbJdaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlp-293@graphite-dynamo-300002.iam.gserviceaccount.com",
+  "client_id": "116554697755826241449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlp-293%40graphite-dynamo-300002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

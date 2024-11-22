@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="delete_schedule">Delete Schedule</string>
+    <string name="Add_Schedule">Delete Schedule</string>
+    <string name="delete">Delete</string>
+    <string name="error_message">Error: %1$d</string>
+    <string name="recognizer_busy">SpeechRecognizer sedang sibuk, coba lagi.</string>
+    <string name="recording_icon">🔴</string>
+    <string name="mic_icon">🎤</string>
+    <string name="schedule_saved">Jadwal \'%1$s\' disimpan untuk %2$s</string>
+    <string name="command_not_understood">Perintah tidak dimengerti. Coba lagi.</string>
+    <string name="error_time_unrecognized">Tidak dapat mengenali waktu dalam perintah.</string>
+    <string name="error_action_unrecognized">Tidak dapat mengenali tindakan dalam perintah.</string>
+    <string name="schedule_added">Jadwal ditambahkan:\nLabel: %1$s\nDeskripsi: %2$s\nWaktu: %3$s</string>
+    <string name="no_text_recognized">Tidak ada teks yang dikenali.</string>
+    <string name="timeout_message">Timeout: Tidak ada suara.</string>
+
+
+
+</resources>
